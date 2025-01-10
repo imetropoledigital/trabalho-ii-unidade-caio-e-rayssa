@@ -2,7 +2,7 @@
 
 # TRABALHO - II UNIDADE
 
-O presente projeto consiste em uma API em Express.js com integração do banco de dados NoSQL MongoDB.
+O presente projeto consiste em uma API em Express.js com integração do banco de dados NoSQL MongoDB (utilizando o Atlas).
 <br><br>
 
 ## Configuração e Instalação
