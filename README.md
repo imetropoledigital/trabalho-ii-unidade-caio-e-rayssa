@@ -31,5 +31,5 @@ npm install
 ```
 npm run serve
 ```
-
+<br>
 Discentes: Caio Justino e Rayssa Beatriz
